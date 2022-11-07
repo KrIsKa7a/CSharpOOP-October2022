@@ -5,3 +5,4 @@
 *Here you can find problem solutions for the following exercises:*
 1. [**Encapsulation**](https://github.com/KrIsKa7a/CSharpOOP-October2022/tree/main/E01.%20Encapsulation)
 2. [**Interfaces and Abstraction**](https://github.com/KrIsKa7a/CSharpOOP-October2022/tree/main/E02.%20Interfaces%20and%20Abstraction)
+3. [**Polymorphism**](https://github.com/KrIsKa7a/CSharpOOP-October2022/tree/main/E03.%20Polymorphism)
