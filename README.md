@@ -7,3 +7,4 @@
 2. [**Interfaces and Abstraction**](https://github.com/KrIsKa7a/CSharpOOP-October2022/tree/main/E02.%20Interfaces%20and%20Abstraction)
 3. [**Polymorphism**](https://github.com/KrIsKa7a/CSharpOOP-October2022/tree/main/E03.%20Polymorphism)
 4. [**SOLID**](https://github.com/KrIsKa7a/CSharpOOP-October2022/tree/main/E04.%20SOLID)
+5. [**Reflection and Attributes**](https://github.com/KrIsKa7a/CSharpOOP-October2022/tree/main/E05.%20Reflection%20and%20Attributes)
