@@ -10,3 +10,4 @@
 5. [**Reflection and Attributes**](https://github.com/KrIsKa7a/CSharpOOP-October2022/tree/main/E05.%20Reflection%20and%20Attributes)
 6. [**Unit Testing**](https://github.com/KrIsKa7a/CSharpOOP-October2022/tree/main/E06.%20Unit%20Testing)
 7. [**Mocking and Test Driven Development**](https://github.com/KrIsKa7a/CSharpOOP-October2022/tree/main/E07.%20Mocking%20and%20Test%20Driven%20Development)
+8. [**Design Patterns**](https://github.com/KrIsKa7a/CSharpOOP-October2022/tree/main/E08.%20Design%20Patterns)
