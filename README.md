@@ -12,3 +12,4 @@
 7. [**Mocking and Test Driven Development**](https://github.com/KrIsKa7a/CSharpOOP-October2022/tree/main/E07.%20Mocking%20and%20Test%20Driven%20Development)
 8. [**Design Patterns**](https://github.com/KrIsKa7a/CSharpOOP-October2022/tree/main/E08.%20Design%20Patterns)
 9. [**Exam Preparation**](https://github.com/KrIsKa7a/CSharpOOP-October2022/tree/main/E09.%20Exam%20Preparation)
+10. [**Workshop - Snake Game**](https://github.com/KrIsKa7a/CSharpOOP-October2022/tree/main/E10.%20Workshop%20-%20Snake%20Game)
